@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+#topo {
+  background-color: red;
+  height: 150px;
+}
+
+#meio {
+  height: 300px;
+  display: flex;
+}
+
+#esquerda {
+  background-color: green;
+  width: calc(100% / 3);
+}
+
+#centro {
+  background-color: black;
+  width: calc(100% / 3);
+}
+
+#direita {
+  background-color: yellow;
+  width: calc(100% / 3);
+}
+
+#embaixo {
+  background-color: blue;
+  height: 100px;
+}
